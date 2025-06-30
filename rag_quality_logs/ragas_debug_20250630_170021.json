@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-06-30T16:57:02.376565",
+    "error_type": "ExceptionInRunner",
+    "error_message": "The runner thread which was running the jobs raised an exeception. Read the traceback above to debug it. You can also pass `raise_exceptions=False` incase you want to show only a warning message instead.",
+    "dataset_size": 100,
+    "context_validation_stats": {
+      "total_responses": 100,
+      "empty_contexts": 0,
+      "invalid_formats": 0,
+      "short_contexts": 0,
+      "processed_contexts": 998,
+      "too_short": 2
+    },
+    "sample_data": {
+      "first_question": "Consider Excelerate's Non-Disclosure Agreement; Does the document allow the Receiving Party to share",
+      "first_answer": "1. **Direct Answer**: Yes, the document allows the Receiving Party to share some Confidential Inform",
+      "first_contexts_count": 4,
+      "first_ground_truth": "7. Notwithstanding anything to the contrary in Paragraph 4 hereof, Proprietary Information may be di"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "question_index": 86,
+    "question": "Consider the Merger Agreement between \"Madison Square Garden Entertainment Corp.\" and \"MSG Networks ...",
+    "issues": [
+      {
+        "context_index": 1,
+        "issue": "too_short",
+        "content_preview": ". (e) Company Intervening Event"
+      },
+      {
+        "context_index": 7,
+        "issue": "too_short",
+        "content_preview": ". (c) Intervening Event"
+      }
+    ]
+  }
+]

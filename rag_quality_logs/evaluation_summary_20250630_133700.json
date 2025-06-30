@@ -1,0 +1,10 @@
+{
+  "timestamp": "2025-06-30T13:37:00.167493",
+  "evaluation_status": "completed",
+  "ragas_status": "completed",
+  "quality_issues_detected": 2,
+  "logs_generated": [
+    "context_failures_20250630_133700.json",
+    "performance_metrics_20250630_133700.json"
+  ]
+}

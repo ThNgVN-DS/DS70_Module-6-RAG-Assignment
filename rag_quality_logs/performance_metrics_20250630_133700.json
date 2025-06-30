@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2025-06-30T13:36:59.971717",
+    "ragas_processing_time": 343.9358561038971,
+    "dataset_size": 100,
+    "context_validation_stats": {
+      "total_responses": 100,
+      "empty_contexts": 0,
+      "invalid_formats": 0,
+      "short_contexts": 0,
+      "processed_contexts": 998,
+      "too_short": 2
+    },
+    "status": "success"
+  }
+]
